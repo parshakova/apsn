@@ -49,7 +49,7 @@ Tested on GeForce GTX Titan X.
  - the [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
  - GloVe word vectors 
  - [Sent2vec](https://github.com/epfml/sent2vec) with wiki_bigram.bin 
- - Checkpoints of the [pre-trained models](https://drive.google.com/open?id=1pom0i15ztFmC9wie1odjizs_ER00yzzF): use `init1` to initialize models for training
+ - Use checkpoint [`init1`](https://drive.google.com/open?id=1pom0i15ztFmC9wie1odjizs_ER00yzzF) to initialize models for training
  
  using `bash download.sh`
  
