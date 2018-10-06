@@ -4,7 +4,7 @@ Latent Question Interpretation Through Parameter Adaptation Using Stochastic Neu
 In this work we propose a training framework and the APSN module for learning question interpretations that help
 to find various valid answers within the same document. 
 <p align="center">
-<img width=750 src="imgs/apsn.jpg"><br>
+<img width=650 src="imgs/apsn.jpg"><br>
 <i><sub>Structure overview of integrated APSN module with DrQA. In this illustration number of interpretations is 2 and a sampled interpretation is 1.</sub></i><br>
 </p>
 
